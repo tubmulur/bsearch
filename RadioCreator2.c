@@ -1,7 +1,7 @@
 #include <stdio.h>
  
 int main(int argc, char **argv) {
-	int i, n,intvar;
+	int i, n;
 	n=strlen(argv[1]);
 	
 	for (i=0; i<n; i++){
